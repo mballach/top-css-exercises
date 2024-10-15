@@ -1,0 +1,13 @@
+.noir, .bumblebee {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.noir {
+    background-color: black;
+    color: white;
+}
+
+.bumblebee {
+    background-color: yellow;
+}
